@@ -1,7 +1,7 @@
 # Explosive Barrels
 A datapack for Minecraft that implements survival-friendly explosive barrels that blow up if they take damage.
 
-https://www.youtube.com/watch?v=ldKo5V1NPsE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ldKo5V1NPsE" target="_blank"><img src="http://img.youtube.com/vi/ldKo5V1NPsE/0.jpg" alt="Explosive Barrels" width="240" height="180" border="10" /></a>
 
 ## Installation
 1. Make sure you are using the latest 1.16 snapshot.
