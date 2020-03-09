@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ minecraft:barrel unless data block ~ ~ ~ {Lock:"ExplosiveBarrelABCDEFGHIJKLMNOPQRSTU"} if data block ~ ~ ~ {Items:[{Slot:12b,id:"minecraft:gunpowder"},{Slot:13b,id:"minecraft:tnt"},{Slot:14b,id:"minecraft:gunpowder"}]} run function explosivebarrels:base/setup
+execute if block ~ ~ ~ minecraft:barrel unless data block ~ ~ ~ {Items:[{Slot:12b,id:"minecraft:gunpowder"},{Slot:13b,id:"minecraft:tnt"},{Slot:14b,id:"minecraft:gunpowder"}]} if data block ~ ~ ~ {Lock:"ExplosiveBarrelABCDEFGHIJKLMNOPQRSTU"} run function explosivebarrels:base/clear
