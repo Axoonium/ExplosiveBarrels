@@ -1,4 +1,4 @@
-data modify block ~ ~ ~ Lock set value "ExplosiveBarrelABCDEFGHIJKLMNOPQRSTU"
+data modify block ~ ~ ~ Lock set value "§rExplosiveBarrel"
 execute if block ~ ~ ~ barrel[facing=up] run function explosivebarrels:base/decor/up
 execute if block ~ ~ ~ barrel[facing=down] run function explosivebarrels:base/decor/down
 execute if block ~ ~ ~ barrel[facing=north] run function explosivebarrels:base/decor/north
