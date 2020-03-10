@@ -17,7 +17,11 @@ A datapack for Minecraft that implements survival-friendly explosive barrels tha
 5. Close the menu, and either attack the barrel or set down some fire next to it
 6. Have fun!
 
+![barrelsetup](https://user-images.githubusercontent.com/20480418/76270244-f2dea180-624a-11ea-87ff-deaed023406d.png)
+
 The power of the explosion will scale with the amount of TNT you place in the center of the barrel. (1 to 64)
+
+Please note that any items placed inside of the barrel, including ones not in the 5 used slots, will be destroyed.
 
 Currently accepted modifier items are:
 * Splash Potions: Splash down a potion effect around the blast radius
